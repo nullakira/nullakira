@@ -19,7 +19,7 @@ jobs:
       - name: Download TryHackMe Badge
         uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "awl4114awl"
+          username: "nullakira"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push badge
