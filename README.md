@@ -1,7 +1,8 @@
-# [Jordan Calvert](https://www.linkedin.com/in/awl4114awl/)’s IT & Cybersecurity Project Portfolio
+# [Jordan Calvert](https://www.linkedin.com/in/jordanryancalvert/) — Cybersecurity Portfolio
 
-Results-driven Technical Support / Help Desk Support Specialist with a proven track record in diagnosing and resolving diverse technical issues.  
-Currently pursuing my Bachelor’s degree in Cybersecurity.
+Technical Support Specialist transitioning into cybersecurity with hands-on experience in vulnerability management, threat hunting, incident response, and endpoint security operations.
+
+Experience includes working with enterprise security platforms such as Microsoft Sentinel, Microsoft Defender for Endpoint, Tenable Vulnerability Management, and Microsoft Azure within simulated enterprise environments focused on detection, remediation, and operational security workflows.
 
 ## Vulnerability Management 
 
@@ -23,7 +24,7 @@ Currently pursuing my Bachelor’s degree in Cybersecurity.
 ## STIG Automation
 - [STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)
 
-## CTF 
+## CTF / Security Labs
 
 - [OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)
 - [Threat Hunt – Port of Entry](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/threat-hunting-scenarios/Threat%20Hunt%20%E2%80%93%20Port%20of%20Entry)
