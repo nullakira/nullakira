@@ -6,32 +6,32 @@ Experience includes working with enterprise security platforms such as Microsoft
 
 ## Vulnerability Management 
 
-- [Vulnerability Management Program](https://github.com/awl4114awl/vulnerability-management-program)
-- [Programmatic Vulnerability Remediation (Windows 11)](https://github.com/awl4114awl/programmatic-vulnerability-remediation-win11)
+- [Vulnerability Management Program](https://github.com/nullakira/vulnerability-management-program)
+- [Programmatic Vulnerability Remediation (Windows 11)](https://github.com/nullakira/programmatic-vulnerability-remediation-win11)
 
 ## Incident Response 
 
-- [Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/awl4114awl/port-scan-investigation-mde)
-- [Virtual Machine Brute Forcing](https://github.com/awl4114awl/virtual-machine-brute-forcing)
-- [Potential Impossible Travel](https://github.com/awl4114awl/potential-impossible-travel)
+- [Port Scan Investigation with Microsoft Defender for Endpoint](https://github.com/nullakira/port-scan-investigation-mde)
+- [Virtual Machine Brute Forcing](https://github.com/nullakira/virtual-machine-brute-forcing)
+- [Potential Impossible Travel](https://github.com/nullakira/potential-impossible-travel)
 
 ## Threat Hunting 
 
-- [Threat Hunting Scenario with Tor](https://github.com/awl4114awl/threat-hunting-scenario-tor)
-- [Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/awl4114awl/suspected-data-exfiltration-mde)
-- [Linux RCE Detection using Microsoft Defender for Endpoint](https://github.com/awl4114awl/linux-rce-detection-mde)
+- [Threat Hunting Scenario with Tor](https://github.com/nullakira/threat-hunting-scenario-tor)
+- [Suspected Data Exfiltration with Microsoft Defender for Endpoint](https://github.com/nullakira/suspected-data-exfiltration-mde)
+- [Linux RCE Detection using Microsoft Defender for Endpoint](https://github.com/nullakira/linux-rce-detection-mde)
 
 ## STIG Automation
-- [STIG Automation Labs](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)
+- [STIG Automation Labs](https://github.com/nullakira/lognpacific-public/tree/main/cyber-range/STIG_AUTOMATION)
 
 ## CTF / Security Labs
 
-- [OverTheWire Bandit Game](https://github.com/awl4114awl/bandit-wargame-solutions)
-- [Threat Hunt – Port of Entry](https://github.com/awl4114awl/lognpacific-public/tree/main/cyber-range/threat-hunting-scenarios/Threat%20Hunt%20%E2%80%93%20Port%20of%20Entry)
+- [OverTheWire Bandit Game](https://github.com/nullakira/bandit-wargame-solutions)
+- [Threat Hunt – Port of Entry](https://github.com/nullakira/lognpacific-public/tree/main/cyber-range/threat-hunting-scenarios/Threat%20Hunt%20%E2%80%93%20Port%20of%20Entry)
 
 ## Software Development 
 
-- [Wireshark Packet Sniffer (Clone)](https://github.com/awl4114awl/Wireshark-Packet-Sniffer)
+- [Wireshark Packet Sniffer (Clone)](https://github.com/nullakira/Wireshark-Packet-Sniffer)
 
 ## GitHub Stats
 
